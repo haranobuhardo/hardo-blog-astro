@@ -11,6 +11,7 @@ content:
       - {name: draft, label: Is Draft?, type: boolean}
       - {name: date, label: Date, type: date, options: {format: MMM dd yyyy}}
       - {name: summary, label: Summary, type: string, options: {maxlength: 100}}
+      - {name: tags, label: Tags, type: string, list: true}
       - name: body
         label: Body
         type: rich-text

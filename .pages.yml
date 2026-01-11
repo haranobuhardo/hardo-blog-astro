@@ -12,5 +12,4 @@ content:
         label: Body
         type: rich-text
         options: 
-          path: public
-          extensions: [jpg, jpeg, png]
+          media: public

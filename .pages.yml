@@ -1,4 +1,4 @@
-media: public
+media: src/assets
 content:
   - name: posts
     label: Posts

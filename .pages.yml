@@ -16,4 +16,4 @@ content:
         label: Body
         type: rich-text
         options: 
-          media: public
+          media: src/assets

@@ -56,26 +56,26 @@ export const SOCIALS: Socials = [
   { 
     NAME: "Email",
     ICON: "email", 
-    TEXT: "markhorn.dev@gmail.com",
-    HREF: "mailto:markhorn.dev@gmail.com",
+    TEXT: "haranobuhardo@gmail.com",
+    HREF: "mailto:haranobuhardo@gmail.com",
   },
   { 
     NAME: "Github",
     ICON: "github",
     TEXT: "GitHub",
-    HREF: "https://github.com/markhorn-dev/astro-sphere"
+    HREF: "https://github.com/haranobuhardo"
   },
   { 
     NAME: "LinkedIn",
     ICON: "linkedin",
     TEXT: "LinkedIn",
-    HREF: "https://www.linkedin.com/in/markhorn-dev/",
+    HREF: "https://www.linkedin.com/in/haranobuhardo/",
   },
-  { 
-    NAME: "Twitter",
-    ICON: "twitter-x",
-    TEXT: "Twitter",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
+  // { 
+  //   NAME: "Twitter",
+  //   ICON: "twitter-x",
+  //   TEXT: "Twitter",
+  //   HREF: "https://twitter.com/markhorn_dev",
+  // },
 ]
 

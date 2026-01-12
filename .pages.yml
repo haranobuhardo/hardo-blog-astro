@@ -16,4 +16,5 @@ content:
         label: Body
         type: rich-text
         options: 
-          media: src/assets
+          path: src/assets
+          extensions: [jpg, jpeg, png]

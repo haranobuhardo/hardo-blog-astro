@@ -1,4 +1,4 @@
-media: src/assets
+media: public
 content:
   - name: posts
     label: Posts
@@ -16,5 +16,5 @@ content:
         label: Body
         type: rich-text
         options: 
-          path: src/assets
+          path: public
           extensions: [jpg, jpeg, png]

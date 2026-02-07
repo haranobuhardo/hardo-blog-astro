@@ -16,7 +16,7 @@ content:
       - {name: tags, label: Tags, type: string, list: true}
       - name: body
         label: Body
-        type: rich-text
+        type: code
         options: 
           path: public
           extensions: [jpg, jpeg, png]

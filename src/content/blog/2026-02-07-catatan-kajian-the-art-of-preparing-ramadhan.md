@@ -14,7 +14,7 @@ Menjelang bulan suci Ramadhan, sudah sepatutnya kita mempersiapkan diri semaksim
 
 _(Oleh: Ust Ahmad Bazer & Ust Abu Fahd Ega)_
 
-[Suasana Kajian Persiapan Bulan Ramadhan di Blok M](kajian-blok-M-persiapan-ramadhan.jpeg)
+![Suasana Kajian Persiapan Bulan Ramadhan di Blok M](kajian-blok-M-persiapan-ramadhan.jpeg)
 
 Berikut adalah kesalahan-kesalahan yang sering dilakukan mukmin saat bulan Ramadhan. Ada baiknya kita berusaha semampu kita untuk tidak melakukan (atau tidak mengulangi) kesalahan-kesalahan ini.
 

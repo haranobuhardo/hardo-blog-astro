@@ -40,5 +40,3 @@ Jadi, mulai sekarang, saya akan coba untuk **do my best work**. Karena walaupun 
 
 > *Your reputation precedes you. It is the one thing you accumulate over time that serves as a form of wealth that can never be taken away from you.*
 > — Eric J. Ma
-
-* reflections * philosophy * career * work

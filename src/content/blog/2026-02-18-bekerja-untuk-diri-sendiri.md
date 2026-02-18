@@ -5,6 +5,9 @@ date: Feb 18 2026
 summary: Sebuah moto baru dalam berkarir
 tags:
   - reflections
+  - philosophy
+  - career
+  - work
 ---
 Di tengah-tengah menyelami dunia maya, saya tidak sengaja menemukan sebuah artikel di laman pertama hasil pencarian Google saya. Artikel ini sebenarnya tidak menjawab kata kunci yang saya ketik kala itu, tetapi karena tulisannya terlihat sederhana, saya putuskan untuk membaca pesan dari si penulis. Tidak saya sangka, tulisan ini sangat mengena pada diri saya, terutama di tengah kegelisahan arah berkarir saya saat itu.
 
